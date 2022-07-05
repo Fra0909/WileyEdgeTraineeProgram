@@ -4,7 +4,7 @@ public class DVD {
 
     private String name;
     private String releaseDate;
-        private String MPAARating;
+    private String MPAARating;
     private String directorName;
     private String studio;
     private String review;
